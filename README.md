@@ -26,7 +26,6 @@
   * 의창구 주택가격지수를 활용한 단변량 시계열 LSTM모델 구성(최적화x)
   * <img src=" https://user-images.githubusercontent.com/32115744/111197453-d285b780-8601-11eb-9968-ff31eb14bef5.png">
   * <img src="https://user-images.githubusercontent.com/32115744/111197649-0f51ae80-8602-11eb-9b23-5624e1928fc8.png">
-  * 기 선정한 독립변수를 활용한 다변량 시계열 LSTM모델 구성(최적화x)
-  * 
+
 
 
